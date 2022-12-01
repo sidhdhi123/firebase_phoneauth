@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "380824644669",
+    "project_id": "fp28-aa01d",
+    "storage_bucket": "fp28-aa01d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380824644669:android:acaed1424d300765f20e54",
+        "android_client_info": {
+          "package_name": "com.example.fp28"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380824644669-62hc5k4eqn5kojflt3cn93nf3oujfu7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMWNVIKtHK-xfhKSiiPC0gZoADFn8R8XU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380824644669-62hc5k4eqn5kojflt3cn93nf3oujfu7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
